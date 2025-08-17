@@ -1,4 +1,6 @@
 CLI Todo
+
+
 This repository contains a Command-Line Interface (CLI) Todo application built with Node.js and JavaScript. It serves as an introductory project demonstrating fundamental programming concepts and Node.js I/O handling.
 
 Features
